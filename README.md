@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # agent-evolution
 
@@ -710,7 +710,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <div align="center">
 
-**[agent-evolution](https://github.com/m-shamim09/agent-evolution)** by [m-shamim09](https://github.com/m-shamim09/)
+**[agent-evolution](https://github.com/agentic-saim09/agent-evolution)** by [agentic-saim09](https://github.com/agentic-saim09/)
 
 *Don't design your agents. Evolve them.*
 
@@ -728,8 +728,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
